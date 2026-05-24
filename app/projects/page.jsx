@@ -40,7 +40,7 @@ export default function Projects() {
   {
     title: "Pemandu Pionir Kesatria 2026",
     role: "Event Guide / Mentor",
-    image: "/kesatria.jpeg",
+    image: "/temp.jpeg",
     desc: "Acted as guide and mentor for new students during orientation activities, supporting adaptation to campus life.",
   },
 ];
